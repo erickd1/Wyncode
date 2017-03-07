@@ -1,0 +1,128 @@
+body{
+  margin:0;
+  background-image: url("https://images4.alphacoders.com/667/thumb-1920-667236.jpg");
+  background-size:auto;
+  background-repeat: no-repeat;
+
+}
+#contentpage{
+  width: 750px;
+  height:650px;
+  background-color: white;
+  margin-left: 250px;
+  margin-right: 180px;
+  margin-bottom: 20px;
+}
+#comments{
+  width:588px;
+  height: 311px;
+  background-color: black;
+  margin-left: 0px;
+}
+
+#topsearch{
+  width:750px;
+  height:50px;
+  background-color: white;
+  border: 2px transparent black;
+  margin-left: 250px;
+  margin-top:20px;
+}
+#leftCol{
+  width:160px;
+  height:648px;
+  background-color: white;
+  border-top: 1px solid white;
+  border-right: 2px transparent black;
+
+}
+#undervid{
+  width:588px;
+  height: 350px;
+  background-color: grey;
+  float: right;
+}
+.leftnav{
+  margin-top: 50px;
+  font-size: 15px;
+  color: lightgrey;
+  text-align: left;
+  font-style:comic;
+  padding-left: 20px;
+}
+#leftlist{
+  list-style-type: none;
+  text-align:left;
+  color: lightgrey;
+  padding-left: 20px;
+}
+.beach{
+  width: 560px;
+  height: 320px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+#plus{
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+  color: lightgrey;
+}
+}
+#youtubeTop{
+  float:left;
+}
+#comment0{
+  width:587px;
+  height: 75.75px;
+  background-color: white;
+  border: 1px solid lightgrey;
+  background-color: lightgrey;
+  font-size: 8px;
+}
+#comment1{
+  width:587px;
+  height: 75.75px;
+  background-color: white;
+}
+#comment2{
+  width:587px;
+  height: 75.75px;
+  background-color: lightgrey;
+  margin-top:
+}
+#comment3{
+  width:587px;
+  height: 82px;
+  background-color: white;
+}
+#landscape{
+  font-size:7px;
+}
+#owl1{
+
+  width: 588px;
+  height: 89px;
+
+}
+#owl2{
+  width: 588px;
+  height: 89px;
+}
+#owl3{
+  width: 588px;
+  height: 89px;
+}
+#searchbar{
+  margin-left: 450px;
+}
+#owl0{
+  width: 587px;
+  height: 75.75px;
+}
+#posted{
+  text-align: center;
+}
+#pic6{
+  width: 750px;
+}
