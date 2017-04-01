@@ -1,0 +1,49 @@
+puts "Welcome to Relister, how can we help you?"
+puts "options: Buy, Sell, Consign, Other"
+
+option = gets.chomp.downcase.strip
+
+case option
+
+when "buy" then puts "Whatre you looking for? Shirts or shoes?"
+    look_for = gets.chomp.downcase.strip
+        if look_for == "shirts"
+      puts "We got shirts"
+    end
+        if look_for == "shoes"
+          puts "We got shoes"
+    end
+
+
+when "sell" then puts "Whatre you selling"
+    selling = gets.chomp.downcase.strip
+    if selling == "Shirts"
+      puts "Cool well make a listing now!"
+    end
+    if selling == "shoes"
+      puts "Start listing now!"
+    end
+
+
+ when "consign" then puts "Shure thing, are you
+  consigning shirts or shoes"
+   i_got = gets.chomp.downcase.strip
+   if i_got == "shoes"
+     puts "Awesome, we love shoes"
+   end
+   if i_got == "shirts"
+      puts "Cool, we can sell that"
+    end
+
+  when "other" then puts "Whatre you trying to do?"
+    to_do = gets.chomp.downcase
+    if to_do == "sell"
+      puts "Ok restart"
+    end
+    if to_do == "buy"
+      puts "Ok, restart"
+    end
+    if to_do != "buy" "sell"
+      puts "Get off my site"
+    end
+end
